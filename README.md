@@ -5,7 +5,7 @@
 - Preferred codding language: C
 - Preferred MCU: STM32 and AVR Atmega
 - Owner [www.bmw-rudel.de](https://www.bmw-rudel.de)
-- I’m currently working on: DualWBO Adapter and Proteus for my M70
+- I’m currently working on: [DualWBO Adapter](https://github.com/HeinrichG-V12/Dual_WBO) and [rusEFI Proteus for my M70](https://github.com/HeinrichG-V12/M70_rusEFI)
 
 <!--
 **HeinrichG-V12/HeinrichG-V12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
