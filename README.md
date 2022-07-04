@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- Name: Heinrich
+- From: Germany
+- Preferred codding language: C
+- Preferred MCU: STM32 and AVR Atmega
+- Owner [www.bmw-rudel.de](www.bmw-rudel.de)
+- I’m currently working on: DualWBO Adapter and Proteus for my M70
+
 <!--
 **HeinrichG-V12/HeinrichG-V12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
