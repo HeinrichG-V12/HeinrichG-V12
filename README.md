@@ -4,7 +4,7 @@
 - From: Germany
 - Preferred codding language: C
 - Preferred MCU: STM32 and AVR Atmega
-- Owner [www.bmw-rudel.de](www.bmw-rudel.de)
+- Owner [www.bmw-rudel.de](https://www.bmw-rudel.de)
 - I’m currently working on: DualWBO Adapter and Proteus for my M70
 
 <!--
