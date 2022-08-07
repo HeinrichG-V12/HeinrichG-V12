@@ -13,7 +13,8 @@
 ![Debian](https://img.shields.io/badge/Linux-Debian-informational?style=plastic&logo=debian&logoColor=white&color=4AB197)
 ![Jenkins](https://img.shields.io/badge/Tools-Jenkins-informational?style=plastic&logo=jenkins&logoColor=white&color=4AB197)
 - Car skills
-![BMW](https://img.shields.io/badge/Cars-BMW_E31_E65-informational?style=plastic&logo=bmw&logoColor=white&color=4AB197)
+![BMW](https://img.shields.io/badge/Cars-BMW_E31-informational?style=plastic&logo=bmw&logoColor=white&color=4AB197)
+![BMW](https://img.shields.io/badge/Cars-BMW_E65-informational?style=plastic&logo=bmw&logoColor=white&color=4AB197)
 ![Opel](https://img.shields.io/badge/Cars-Opel_Zafira_B-informational?style=plastic&logo=opel&logoColor=white&color=4AB197)
 - Preferred codding language: ![C](https://img.shields.io/badge/Code-C-informational?style=plastic&logo=c%2B%2B&logoColor=white&color=4AB197)
 - Preferred MCU: ![STM32](https://img.shields.io/badge/MCU-STM32-informational?style=plastic&logo=st&logoColor=white&color=4AB197) and
